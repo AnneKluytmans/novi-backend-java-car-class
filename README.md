@@ -23,6 +23,7 @@ The goal of this project is to practice working with **Java classes**, **constru
 - **Java 17**+
 - **IntelliJ IDEA**
 - **JUnit** for testing
+- **Maven** for dependencies, build and execution
 
 ---
 
