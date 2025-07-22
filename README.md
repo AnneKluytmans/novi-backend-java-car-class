@@ -1,4 +1,4 @@
-# Car Database – NOVI Backend Java Assignment
+# Car Class – NOVI Backend Java Assignment
 
 ## About the Project
 
