@@ -41,13 +41,13 @@ The goal of this project is to practice working with **Java classes**, **constru
 
 1. Open the project in your IDE (IntelliJ IDEA)
 2. Locate the `main` method and click the green play button → select **Run 'Main'** or use the terminal:
-```bash
-./mvnw clean compile exec:java
-```
+  ```bash
+  ./mvnw clean compile exec:java
+  ```
 3. To run tests: open `MainTest.java` in `src/test/java`, and click the green play button → **Run 'MainTest'** or use the terminal:
-```bash
-./mvnw test
-```
+  ```bash
+  ./mvnw test
+  ```
 
 ## Credits
 > "This assignment was developed as part of the Backend Java module in the NOVI Software Development program. All instructions, logic, and structure are part of the official coursework."
